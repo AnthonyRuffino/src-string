@@ -1,0 +1,25 @@
+{
+  "name": "src-string",
+  "version": "1.0.0",
+  "description": "Module for evaluating a string wrapped in somewhat configurable context.",
+  "main": "src-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/src-string.git"
+  },
+  "keywords": [
+    "eval",
+    "string",
+    "context",
+    "wrapper"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/src-string/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/src-string#readme"
+}
